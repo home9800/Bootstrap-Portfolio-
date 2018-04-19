@@ -1,0 +1,51 @@
+
+/* Background Image */
+
+body {
+    background-image: url(images/concrete-texture.png)
+}
+
+/* Max Width 960px */
+
+#header {
+    background-color: white;
+    width: 960px;
+    height:120px
+} 
+
+#main {
+    width: 960px;
+    background-color: white;
+    
+}
+
+#header h4 {
+    line-height: 120px;
+    text-align: center;
+    margin: 0;
+}
+
+#header a {
+    color: gray;
+    line-height: 90px;
+    
+}
+
+main {
+    margin-top: 35px;
+    padding: 25px;
+}
+
+#button {
+    background-color: #4aaaa5;
+    border: none;
+}
+
+#China {
+    float: left;
+    margin-right: 15px;
+}
+
+.outer {
+    padding: 20px;  
+}
