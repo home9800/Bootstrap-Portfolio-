@@ -49,3 +49,10 @@ main {
 .outer {
     padding: 20px;  
 }
+
+.jumbo {
+    padding: 50px;
+}
+.head {
+    top: 20px;
+}
